@@ -1,0 +1,294 @@
+2014-05-11 20:22:46,713 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: ItSolutions:MavenEAR:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR/pom.xml.
+2014-05-11 20:22:47,063 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EarLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ear:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ear/pom.xml.
+2014-05-11 20:22:48,089 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2014-05-11 20:22:48,434 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:22:48,435 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ear/src/main/resources
+2014-05-11 20:22:48,725 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:22:48,725 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ear/src/main/resources
+2014-05-11 20:22:49,239 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ejb:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ejb/pom.xml.
+2014-05-11 20:22:49,520 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ejb:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ejb/pom.xml.
+2014-05-11 20:22:49,679 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EarLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ear:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ear/pom.xml.
+2014-05-11 20:22:49,737 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2014-05-11 20:22:50,162 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:22:50,165 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 20:22:50,172 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:22:50,173 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 20:22:50,678 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ejb:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ejb/pom.xml.
+2014-05-11 20:22:51,334 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:22:51,334 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ear/src/main/resources
+2014-05-11 20:22:51,384 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:22:51,387 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 20:22:51,389 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:22:51,390 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 20:22:52,966 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-web:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-web/pom.xml.
+2014-05-11 20:22:53,025 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EarLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ear:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ear/pom.xml.
+2014-05-11 20:22:53,121 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2014-05-11 20:22:53,174 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:22:53,174 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 20:22:53,175 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:22:53,176 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 20:22:55,881 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:22:55,881 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ear/src/main/resources
+2014-05-11 20:22:55,964 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:22:55,964 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 20:22:55,965 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:22:55,965 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 20:23:32,334 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:23:32,335 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 20:23:32,336 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:23:32,336 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 20:24:18,218 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-11 20:24:18,492 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EarLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ear:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ear/pom.xml.
+2014-05-11 20:24:18,532 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ejb:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ejb/pom.xml.
+2014-05-11 20:24:18,631 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-web:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-web/pom.xml.
+2014-05-11 20:24:18,640 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: ItSolutions:MavenEAR:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR/pom.xml.
+2014-05-11 20:24:18,690 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2014-05-11 20:24:18,764 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenEAR-ejb/src/main/java
+2014-05-11 20:24:18,764 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MavenEAR-ejb/src/main/resources
+2014-05-11 20:24:18,764 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenEAR-ejb/src/test/java
+2014-05-11 20:24:18,765 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MavenEAR-ejb/src/test/resources
+2014-05-11 20:24:18,842 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenEAR-web/src/main/java
+2014-05-11 20:24:18,843 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MavenEAR-web/src/main/resources
+2014-05-11 20:24:18,843 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenEAR-web/src/test/java
+2014-05-11 20:24:18,843 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MavenEAR-web/src/test/resources
+2014-05-11 20:24:19,086 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MavenEAR-ear
+2014-05-11 20:24:19,229 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MavenEAR-web
+2014-05-11 20:24:19,237 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2014-05-11 20:24:19,670 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EarLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ear:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ear/pom.xml.
+2014-05-11 20:24:19,706 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2014-05-11 20:24:19,761 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:24:19,761 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ear/src/main/resources
+2014-05-11 20:24:19,938 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ejb:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ejb/pom.xml.
+2014-05-11 20:24:20,113 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:24:20,114 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 20:24:20,115 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:24:20,116 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 20:24:20,579 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-web:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-web/pom.xml.
+2014-05-11 20:24:21,001 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:24:21,002 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 20:24:21,003 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:24:21,003 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 20:24:28,084 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MavenEAR-ear
+2014-05-11 20:24:28,102 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MavenEAR-web
+2014-05-11 20:24:28,304 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2014-05-11 20:24:28,307 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:24:28,307 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ear/src/main/resources
+2014-05-11 20:24:28,353 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:24:28,354 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 20:24:28,356 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:24:28,357 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 20:24:28,722 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:24:28,722 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 20:24:28,723 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:24:28,723 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 20:24:51,042 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-11 20:24:51,131 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ejb:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ejb/pom.xml.
+2014-05-11 20:24:51,237 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenEAR-ejb/src/main/java
+2014-05-11 20:24:51,238 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MavenEAR-ejb/src/main/resources
+2014-05-11 20:24:51,238 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenEAR-ejb/src/test/java
+2014-05-11 20:24:51,238 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MavenEAR-ejb/src/test/resources
+2014-05-11 20:24:51,429 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-05-11 20:24:51,672 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ejb:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ejb/pom.xml.
+2014-05-11 20:24:51,792 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:24:51,792 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 20:24:51,794 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:24:51,794 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 20:25:56,691 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ejb:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ejb/pom.xml.
+2014-05-11 20:25:56,815 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:25:56,816 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 20:25:56,817 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:25:56,818 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 20:26:13,211 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-11 20:26:13,267 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ejb:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ejb/pom.xml.
+2014-05-11 20:26:13,365 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenEAR-ejb/src/main/java
+2014-05-11 20:26:13,365 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MavenEAR-ejb/src/main/resources
+2014-05-11 20:26:13,366 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenEAR-ejb/src/test/java
+2014-05-11 20:26:13,366 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MavenEAR-ejb/src/test/resources
+2014-05-11 20:26:13,610 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-05-11 20:26:13,942 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ejb:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ejb/pom.xml.
+2014-05-11 20:26:14,068 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:26:14,068 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 20:26:14,081 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:26:14,082 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 20:27:12,553 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:27:12,553 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 20:27:12,555 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:27:12,555 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 20:27:23,794 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:27:23,794 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 20:27:23,796 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:27:23,796 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 20:27:25,044 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:27:25,044 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 20:27:25,046 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:27:25,046 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 20:27:31,871 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MavenEAR-ear
+2014-05-11 20:27:31,884 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MavenEAR-web
+2014-05-11 20:27:32,070 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2014-05-11 20:27:32,072 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:27:32,072 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ear/src/main/resources
+2014-05-11 20:27:32,117 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:27:32,117 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 20:27:32,119 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:27:32,120 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 20:27:32,316 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:27:32,317 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 20:27:32,317 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 20:27:32,318 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:01:41,835 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:01:41,848 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:01:41,850 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:01:41,850 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:02:19,993 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2014-05-11 21:02:30,285 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR
+2014-05-11 21:02:30,286 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2014-05-11 21:02:47,579 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-11 21:02:47,818 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: ItSolutions:MavenEAR:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR/pom.xml.
+2014-05-11 21:02:48,045 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EarLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ear:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ear/pom.xml.
+2014-05-11 21:02:48,199 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-web:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-web/pom.xml.
+2014-05-11 21:02:48,254 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ejb:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ejb/pom.xml.
+2014-05-11 21:02:48,940 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2014-05-11 21:02:49,213 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2014-05-11 21:02:49,481 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:02:49,482 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ear/src/main/resources
+2014-05-11 21:02:49,515 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:02:49,516 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 21:02:49,521 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:02:49,522 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 21:02:49,554 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:02:49,555 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:02:49,557 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:02:49,557 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:03:59,373 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:03:59,373 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ear/src/main/resources
+2014-05-11 21:03:59,642 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:03:59,643 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 21:03:59,646 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:03:59,647 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 21:03:59,896 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:03:59,896 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:03:59,897 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:03:59,897 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:04:05,231 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:04:05,231 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ear/src/main/resources
+2014-05-11 21:04:05,309 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:04:05,310 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 21:04:05,311 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:04:05,312 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 21:04:05,388 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:04:05,388 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:04:05,389 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:04:05,390 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:04:07,710 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:04:07,710 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ear/src/main/resources
+2014-05-11 21:04:07,780 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:04:07,781 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 21:04:07,784 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:04:07,784 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 21:04:07,855 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:04:07,855 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:04:07,856 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:04:07,856 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:04:17,522 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-web:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-web/pom.xml.
+2014-05-11 21:04:17,588 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EarLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ear:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ear/pom.xml.
+2014-05-11 21:04:17,750 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2014-05-11 21:04:18,476 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:04:18,476 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ear/src/main/resources
+2014-05-11 21:04:18,659 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:04:18,660 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:04:18,661 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:04:18,661 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:04:24,827 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ejb:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ejb/pom.xml.
+2014-05-11 21:04:24,945 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-web:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-web/pom.xml.
+2014-05-11 21:04:24,994 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EarLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ear:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ear/pom.xml.
+2014-05-11 21:04:25,078 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2014-05-11 21:04:25,779 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:04:25,779 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ear/src/main/resources
+2014-05-11 21:04:25,928 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:04:25,929 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 21:04:25,930 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:04:25,930 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 21:04:25,969 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:04:25,969 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:04:25,970 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:04:25,970 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:08:00,899 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:08:00,903 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 21:08:00,908 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:08:00,909 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 21:08:01,601 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:08:01,601 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:08:01,602 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:08:01,603 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:10:14,587 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:10:14,588 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 21:10:14,597 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:10:14,598 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 21:10:17,404 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:10:17,405 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 21:10:17,407 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:10:17,407 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 21:10:24,387 [Worker-6] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MavenEAR-ear
+2014-05-11 21:10:24,424 [Worker-6] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MavenEAR-web
+2014-05-11 21:10:24,891 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2014-05-11 21:10:25,003 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:10:25,003 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ear/src/main/resources
+2014-05-11 21:10:25,101 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:10:25,101 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 21:10:25,103 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:10:25,104 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 21:10:25,539 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:10:25,539 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:10:25,540 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:10:25,540 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:12:08,091 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:12:08,095 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 21:12:08,101 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:12:08,102 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 21:12:10,747 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:12:10,747 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:12:10,749 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:12:10,749 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:12:17,303 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ejb:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ejb/pom.xml.
+2014-05-11 21:12:17,737 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:12:17,740 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 21:12:17,743 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:12:17,744 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 21:12:46,101 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ejb:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ejb/pom.xml.
+2014-05-11 21:12:46,339 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:12:46,340 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 21:12:46,342 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:12:46,342 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 21:12:52,190 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ejb:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ejb/pom.xml.
+2014-05-11 21:12:52,350 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:12:52,351 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 21:12:52,352 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:12:52,353 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 21:12:53,973 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:12:53,974 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 21:12:53,975 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:12:53,976 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 21:20:22,731 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:20:22,735 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 21:20:22,741 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:20:22,741 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-11 21:20:23,299 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:20:23,300 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:20:23,301 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:20:23,301 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:21:22,529 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:21:22,531 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:21:22,532 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:21:22,532 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-11 21:21:51,878 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-11 21:21:52,110 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ejb:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ejb/pom.xml.
+2014-05-11 21:21:52,295 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenEAR-ejb/src/main/java
+2014-05-11 21:21:52,295 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MavenEAR-ejb/src/main/resources
+2014-05-11 21:21:52,296 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenEAR-ejb/src/test/java
+2014-05-11 21:21:52,296 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MavenEAR-ejb/src/test/resources
+2014-05-11 21:21:52,562 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-05-11 21:21:52,999 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: ItSolutions:MavenEAR-ejb:0.0.1-SNAPSHOT @ /Users/dev/GitRepository/miguelLX-tutorial-J2EE/MavenEAR-ejb/pom.xml.
+2014-05-11 21:21:53,350 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:21:53,351 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-11 21:21:53,353 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-11 21:21:53,354 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources

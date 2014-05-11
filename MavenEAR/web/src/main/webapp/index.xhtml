@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core">
+
+<ui:composition template="/WEB-INF/template/template.xhtml">
+	
+	<ui:define name="content">
+	   <h:form>
+		
+			<h:dataTable id="dt1" value="" 
+			var="item" bgcolor="#ffffff" border="1"  cellspacing="2" 
+			cellpadding="10" width="100%" 
+			style="font-family: 'Open Sans', sans-serif; text-align: center;" 
+			rules="all" >
+			
+			<f:facet name="header">
+			  <h:outputText value="Customer List Data Table" />
+			</f:facet> 
+			
+			<h:column>
+			  <f:facet name="header">
+			  <h:outputText value="Customer Id" />
+			  </f:facet> 
+			   <h:outputText value=""></h:outputText>
+			</h:column>
+			
+			<h:column>
+			  <f:facet name="header">
+			  <h:outputText value="Name"/>
+			  </f:facet> 
+			   <h:outputText value=""></h:outputText>
+			</h:column>
+			
+			<h:column>
+			  <f:facet name="header">
+			  <h:outputText value="Email"/>
+			  </f:facet>
+			   <h:outputText value=""></h:outputText>
+			</h:column>
+			
+			<h:column>
+			  <f:facet name="header">
+			  <h:outputText value="Address"/>
+			  </f:facet>
+			   <h:outputText value=""></h:outputText>
+			</h:column>
+						
+			</h:dataTable>
+			
+		 </h:form>
+	</ui:define>	
+</ui:composition>
+</html>
