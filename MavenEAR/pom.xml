@@ -64,6 +64,8 @@
             maven repository. -->
         <!-- <version.jboss.as>7.2.0.Final-redhat-8</version.jboss.as> -->
 
+		<org.richfaces.bom.version>4.3.6.Final</org.richfaces.bom.version>
+
         <!-- other plugin versions -->
         <version.ear.plugin>2.6</version.ear.plugin>
         <version.ejb.plugin>2.3</version.ejb.plugin>
@@ -120,6 +122,14 @@
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
+
+	 		<dependency>  
+                <groupId>org.richfaces</groupId>  
+                <artifactId>richfaces-bom</artifactId>  
+                <version>${org.richfaces.bom.version}</version>  
+                <scope>import</scope>  
+                <type>pom</type>  
+            </dependency>  
 
         </dependencies>
     </dependencyManagement>

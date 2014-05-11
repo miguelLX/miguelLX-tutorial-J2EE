@@ -74,6 +74,14 @@
          <artifactId>hibernate-jpa-2.0-api</artifactId>
          <scope>provided</scope>
       </dependency>
+      <dependency>
+      		<groupId>org.richfaces.ui</groupId>  
+	        <artifactId>richfaces-components-ui</artifactId>  
+	  </dependency>  
+	  <dependency>
+	   		<groupId>org.richfaces.core</groupId>  
+	        <artifactId>richfaces-core-impl</artifactId>  
+	  </dependency>
 
        <!-- JSR-303 (Bean Validation) Implementation -->
        <!-- Provides portable constraints such as @Email -->
@@ -89,7 +97,6 @@
                </exclusion>
            </exclusions>
        </dependency>
-
    </dependencies>
 
    <build>
